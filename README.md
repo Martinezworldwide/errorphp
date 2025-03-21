@@ -1,7 +1,5 @@
 # errorphp
 
-find the error in my code and explain why its not sliding my tab-content and displaying one at a time:
-
 <?php
 include 'db.php';
 session_start();
